@@ -1,3 +1,3 @@
 # figma-Assinment
 
-infamous-weather.surge.sh
+https://infamous-weather.surge.sh/
